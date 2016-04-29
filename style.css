@@ -2,7 +2,11 @@ body {background-color: #FB000D;
 	margin-left: 100px;
 	margin-right: 100px;
 	font-size: 24px;
-	font-family: verdana, sans-serif;}
+	font-family: verdana, sans-serif;
+	background-image: url("https://static.pexels.com/photos/9574/pexels-photo.jpeg");
+	background-position: center;
+
+}
 
 h2 {color: #0034AB;
 	text-align: center;
@@ -11,5 +15,17 @@ h2 {color: #0034AB;
 	text-decoration: underline;}
 
 div {background-color:#FFFF00;
-	
+	 border: 100px;
+	 text-align: middle;
 }
+
+ol {list-style-type: upper-latin;
+	color: #FFA81E;
+	font-style: italic;
+	font-weight: bold;
+}
+
+ul {list-style-type: square;
+	list-style-image: url("https://image.freepik.com/free-icon/twitter-logo-button_318-85053.png");
+}
+
